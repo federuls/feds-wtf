@@ -1,6 +1,6 @@
 if not game:IsLoaded() then game.Loaded:Wait() end
 
-local USER = "YOUR_USER"
+local USER = "federuls"
 local REPO = "feds-wtf"
 local RAW = ("https://raw.githubusercontent.com/%s/%s/main/feds_wtf.lua"):format(USER, REPO)
 
